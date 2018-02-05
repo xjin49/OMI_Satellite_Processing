@@ -1,5 +1,5 @@
 # OMI_Satellite_Processing
-NCL Script that converts OMI HCHO data from ASCII format to NetCDF.
+NCL Script that converts OMI HCHO (TEMIS retrieval) data from ASCII format to NetCDF.
 
 Daily OMI HCHO data can be downloaded at: 
 http://h2co.aeronomie.be/ch2o/ch2o.php?instr=omi&period=day
